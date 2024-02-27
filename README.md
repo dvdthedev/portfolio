@@ -1,4 +1,4 @@
-```
+
 
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
@@ -14,8 +14,7 @@
 
 ## Feito por:
 
-### Joana Santos
+### Deivid Alves da Rocha
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/
+### Linkedin: https://www.linkedin.com/in/deivid-rocha/
 
-```
