@@ -2,6 +2,7 @@
 
 # Olá, Bem vindo ao meu projeto de portfólio.
 
+![img-preview-do-projeto](assets/preview.png)
 
 
 ## Ferramentas utilizadas:
